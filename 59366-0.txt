@@ -1,29 +1,7 @@
-The Project Gutenberg EBook of Running the Gauntlet, by Edmund Yates
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Running the Gauntlet
-       A Novel
-
-Author: Edmund Yates
-
-Release Date: April 26, 2019 [EBook #59366]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK RUNNING THE GAUNTLET ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59366 ***
 
 
 
-
-Produced by Charles Bowen from page scans provided by Google Books
 
 
 
@@ -506,7 +484,7 @@ That a dislike to clubs is strongly rooted in the female breast is not
 a mere aphorism of the comic writer, but is a serious fact. This
 feeling would be much mitigated, if not entirely eradicated, one would
 think, if women could only know the real arcana of those much-loathed
-establishments. Life wants something more than good _entrées_ and
+establishments. Life wants something more than good _entrÃ©es_ and
 wine, easy-chairs, big waiters, and a place to smoke in: it wants
 companionship and geniality--two qualities which are very rare in the
 club-world. You scowl at the man at the next table, and he scowls at
@@ -592,7 +570,7 @@ Jock, and showed that he was in earnest.
 
 Be this as it may, how that Laurence Alsager sold out from her
 Majesty's regiment of Coldstream Guards, and that he was succeeded
-by Peregrine Wilks (whose grandfather, _par parenthèse_, kept a
+by Peregrine Wilks (whose grandfather, _par parenthÃ¨se_, kept a
 ham-and-beef shop in St. Martin's Court), is it not written in the
 chronicles of the _London Gazette?_ Immediately after the business had
 been settled, Colonel Alsager left England for the Continent. He was
@@ -909,7 +887,7 @@ the stalls were carefully stamped upon and ground against by the
 club-diners steadily pushing their way to their seats. The piece of
 the evening commenced about nine and lasted till half-past ten; and
 then there came forty minutes of a brilliant burlesque, with crowds of
-pretty coryphées, volleys of rattling puns and parodies, crackling
+pretty coryphÃ©es, volleys of rattling puns and parodies, crackling
 allusions to popular topics, and resplendent scenery by Mr.
 Coverflats, the great scenic artist of the day. When it is recollected
 that though only two or three of the actors were really first-rate,
@@ -932,7 +910,7 @@ novels and his plays in the most piquante manner with reproductions of
 characters and stories well known in the London world. It was rumoured
 that in _Tried in the Furnace_ the plot strongly resembled the details
 of a great scandal in high life, which had formed the _plat de
-résistance_ of the gossips of the previous season; and it was also
+rÃ©sistance_ of the gossips of the previous season; and it was also
 said that the hero, an officer in the Guards, would be played by Dacre
 Pontifex, who at that time had turned all women's heads who went
 regularly into society, and who, to a handsome face and figure and a
@@ -1043,7 +1021,7 @@ and through by Cossack spearmen; and Major-general Richard Edie, M.P.,
 is the chief adviser and the trusted agent of his mother-in-law, the
 Dowager Countess of Porphyry. In the next box, hiding behind the
 muslin curtains, and endeavouring to hide her convulsions of laughter
-behind her fan, sat little Pauline Désirée, _première danseuse_ at the
+behind her fan, sat little Pauline DÃ©sirÃ©e, _premiÃ¨re danseuse_ at the
 Opera Comique, with Harry Lindon of the Coldstreams, and Prothero of
 the Foreign Office, and Tom Hodgson the comic writer; none of them one
 atom changed, all of them wonder-struck at the man in the big beard,
@@ -1447,7 +1425,7 @@ man seated on Laurence's right. "I never heard the Blab so charmingly
 eloquent. You were with him at the theatre, Alsager; who was the lady
 whom he so deliciously described as a 'modest woman' that he
 escorted?" The speaker was Lord Dollamore, a man of good abilities and
-position, but a confirmed Sybarite and a renowned _roué_.
+position, but a confirmed Sybarite and a renowned _rouÃ©_.
 
 "Bertram escorted no one; he merely had a seat in a box with Lady
 Mitford and her husband," said Laurence coldly. He hated Lord
@@ -1464,7 +1442,7 @@ spoken that sounded unpleasantly on Laurence's ear; so he said
 shortly, "I saw Lady Mitford for the first time to-night."
 
 "Oh, she's very nice; a little too classical and statuesque and
-Clite-like for my taste, which leans more to the _beauté-du-diable_
+Clite-like for my taste, which leans more to the _beautÃ©-du-diable_
 order; but still Lady Mitford's charming. Poor little woman! she's
 like the young bears, with all her troubles before her."
 
@@ -1481,7 +1459,7 @@ young husband who dotes on her,--Oh, you needn't grin; I saw him with
 her in the box."
 
 "Yes, and I saw him without her, but with Bligh and Winton, the two
-Clarks, who are _coryphées_ at Drury Lane, and Mdlle. Carambola from
+Clarks, who are _coryphÃ©es_ at Drury Lane, and Mdlle. Carambola from
 the cirque at Leicester Square, turning in to supper at Dubourg's.
 Now, then, what do you say to that?"
 
@@ -1861,7 +1839,7 @@ gambling"--(Sir Percy was chairman of Quarter-Sessions, and you might
 trace the effect of act-of-parliament reading in his style)-how he had
 lost large sums at cards; and how, with the double object of paying
 his debts and retrieving his losses, lie had at length forged Sir
-Percy's signature to a bill for £200; and when the document became due
+Percy's signature to a bill for Â£200; and when the document became due
 had absconded, no one knew where. Sir Percy need scarcely say that all
 communication between him and this unworthy member of--he grieved to
 say--his family was at an end for ever; and he took that opportunity,
@@ -2146,7 +2124,7 @@ told him that his goings-on with Lady Mary Blair, the Punter's
 sister-in-law, were the talk of the town; and that if her husband, the
 Admiral, was blind, he, the Punter, wasn't, as he'd let Alsager pretty
 soon know. Laurence replied that the Punter had better mind his own
-business,--which was "legging" young boys at _écarté_ and
+business,--which was "legging" young boys at _Ã©cartÃ©_ and
 blind-hookey,--and leave his brother's wife alone; upon which Punter
 Blair sent O'Dwyer of the 18th with a message; and there must
 inevitably have been a meeting, had not Blair's colonel got a hint of
@@ -2208,7 +2186,7 @@ eyes and coolly surveys women and men alike, as though they were
 slaves in the Constantinople market, and she the buyer for the Sultan.
 There certainly was a wonderful charm about Lady Mitford, and, good
 heavens! think of a man having such a wife as that, and going off to
-sup with Bligh and Winton, who were simply two empty-headed _roué_
+sup with Bligh and Winton, who were simply two empty-headed _rouÃ©_
 jackasses, and Pontifex, who--Well, it was very lucky that people
 didn't think alike. Yes, that man Mitford was a lout, a great
 overgrown-schoolboy sort of fellow, who might be led into any sort of
@@ -2297,7 +2275,7 @@ all possible enjoyment." And he took off his hat and went on his way.
 Oh, he was perfectly right; she was charming. He wasn't sure whether
 she hadn't looked better even this morning than last night, so fresh
 and wholesome. And her manner, without the slightest suspicion of an
-_arrière pensée_, free, frank, and ingenuous; how nicely she spoke
+_arriÃ¨re pensÃ©e_, free, frank, and ingenuous; how nicely she spoke
 about her husband and his driving! There could be no mistake about a
 woman like that. No warping or twisting could torture her conduct into
 anything assailable. He'd been slightly Quixotic when he thought to
@@ -2569,7 +2547,7 @@ the other, pulled across the pole, was plunging and struggling in wild
 attempts to free itself. The men who had been signalled to by Spurrier
 were by this time issuing from the lodge-gates, and making towards the
 spot; but long before they reached it, a tall man with a flowing black
-beard had sprung in among the _débris_, regardless of hoofs flying in
+beard had sprung in among the _dÃ©bris_, regardless of hoofs flying in
 all directions, and had dragged therefrom the senseless form of Lady
 Mitford.
 
@@ -3023,7 +3001,7 @@ He thought of all this as he woke the next morning; and clearly saw in
 an instant that it would be running directly contrary to his fate to
 go down to see his father just then. He felt impelled to remain in
 London, and in London he should stay. He felt--Ah, how beautiful she
-looked as he dragged her out from amidst the _débris_ of the carriage
+looked as he dragged her out from amidst the _dÃ©bris_ of the carriage
 and the plunging hoofs of the ponies, though her face was as pale as
 marble, and the light of her eyes was quenched beneath the drooping
 lids! It was Kismet that had kept that handsome oaf, her husband, at
@@ -3638,7 +3616,7 @@ theatres and newspaper offices for its parlour to be the resort of
 actors and press-men of an inferior grade. The more eminent in both
 professions "used" the Rougepot in Salad Yard, a famous old place that
 had been a house of call for actors, wits, and men-of-letters for
-generations, and where strangers seldom penetrated. The _habitués_ of
+generations, and where strangers seldom penetrated. The _habituÃ©s_ of
 "Johnson's" were mostly young men just affiliated to their
 professions, and not particularly careful as to their associates; so
 that you frequently found in Johnson's parlour a sprinkling of
@@ -3932,7 +3910,7 @@ two years had elapsed, and he was back in London, pretty much the same
 as if he had never left it; and she was asking whether he had
 returned, and he had begun to feel a great interest in Lady Mitford;
 and Sir Charles Mitford evidently thought Mrs. Hammond a most
-delightful person, and every thing was _à tort et à travers_, as it
+delightful person, and every thing was _Ã  tort et Ã  travers_, as it
 has been, is, and always shall be, in the great world of London.
 
 _Nil admirari_ is the motto on which your precocious youth piques
@@ -3943,7 +3921,7 @@ pinched and slaved; at the treachery of the one familiar friend; at
 the enormous legacy left you by the uncle whose last words to you were
 that you were a jackanapes, and, so far as he was concerned, should be
 a beggar? The man of the world is surprised at nothing; he is not
-_l'homme blasé_ of the caricaturist; he is not an atom astonished at
+_l'homme blasÃ©_ of the caricaturist; he is not an atom astonished at
 finding nothing in anything; on the contrary, he finds plenty of
 novelty in every variety of life; but nothing which may happen to him
 excites the smallest wonderment on his part. So that when Colonel
@@ -4052,7 +4030,7 @@ from Mr. Hammond."
 Molyneux she was not much accustomed to having any influence with her
 daughter. Then I went away; but at first not out of the reach of that
 London jargon which permeates wherever Englishmen congregate. I heard
-of your marriage, of your first season, of the Richmond _fête_ given
+of your marriage, of your first season, of the Richmond _fÃªte_ given
 for you by the Russian Prince, Tchernigow. I heard of you that autumn
 as being the reigning belle of Baden, where Tchernigow must have been
 at the same time, as I recollect reading in _Galignani_ of his
@@ -4088,7 +4066,7 @@ what?"
 
 She looked splendidly beautiful just at that moment. She was a
 bright-looking little woman, with deep-gray eyes and long dark lashes,
-shining chestnut hair, a _retroussé_ nose, a wanton mouth, and a
+shining chestnut hair, a _retroussÃ©_ nose, a wanton mouth, and a
 perfect, trim, tight, rounded small figure. As she threw out this
 verbal challenge, her eyes flashed, she sat erect, and every fibre
 within her seemed quivering with emotion.
@@ -4120,7 +4098,7 @@ patent before me."
 bird. The story of a _preux chevalier_ and a lady in distress; of a
 romantic adventure and a terrific leap; of plunging hoofs and
 fainting-fits, and all the necessary ingredients of such a scene. _Je
-vous en félicité, Monsieur le Colonel_."
+vous en fÃ©licitÃ©, Monsieur le Colonel_."
 
 Laurence's brow grew very dark as he said, "You are too clever a
 woman to give a leg-up to a manifestly limping story, however much it
@@ -4371,7 +4349,7 @@ stables, and the remnant of the late Sir Percy's stud, and reported to
 Captain Bligh that the stables was pigsties, and as for the hanimals,
 he should think they must be the 'osses as Noah put into the hark.
 
-A fresh _régime_ and fresh work to be done by everybody under it. No
+A fresh _rÃ©gime_ and fresh work to be done by everybody under it. No
 more chance for Tummus coachman and Willum helper to just ride harses
 to ex'cise and dryaive 'em out in trap whenever wanted to go crass to
 races or market, or give missus and young 'uns a little change. No
@@ -4927,7 +4905,7 @@ So they pushed their way through the steaming, seething, struggling
 crowd, and found themselves in a quiet dull little square. Across
 this, and merely glancing at several groups of men dotted here and
 there in its midst, loudly talking and gesticulating with energy which
-smacked more of the Hamburg Börsenhalle or the Frankfort Zeil than the
+smacked more of the Hamburg BÃ¶rsenhalle or the Frankfort Zeil than the
 stolid reticence of England, Mr. Griffiths led his companion until
 they stopped before the closed door of a public house, aloft from
 which swung the sign of "The Net of Lemons." At the door Mr. Griffiths
@@ -5302,7 +5280,7 @@ the violent pull given to the door-bell by Sir Charles's groom, and in
 a kind of hazy dream thought that it must be summer again, and that it
 must be some of the gents from the yachts, as was always so noisy and
 obstreperous. Before he could rouse himself sufficiently to get to the
-door, he had been anticipated by the landlord, wit° had scarcely made
+door, he had been anticipated by the landlord, witÂ° had scarcely made
 his bow, before Dr. Bronk, who had noticed the phaeton dashing round
 the corner, fancied it might be a son or a nephew on the lookout for
 quarters--and medical attendance--for some invalid relative, came into
@@ -5450,11 +5428,11 @@ take great pleasure in recalling."
 understand any such thing. Though I go quietly enough in harness, and
 take my share of the collar-work too, they little think how I long
 sometimes to kick over the traces, to substitute Alfred de Musset for
-Fénelon in my pupil's reading, or to let my fingers and voice stray
+FÃ©nelon in my pupil's reading, or to let my fingers and voice stray
 off from _Adeste Fideles_ into _Eh, ioup, ioup, ioup, tralala, lala!_
 How it would astonish them! wouldn't it?--the files, I mean; not Mrs.
 Hammond, who knows everything, and I've no doubt would follow on with
-_Mon père est à Paris_ as naturally as possible."
+_Mon pÃ¨re est Ã  Paris_ as naturally as possible."
 
 Sir Charles was by no means soothed by this rattle, but frowningly
 asked, "How long do you mean to remain here?"
@@ -5637,7 +5615,7 @@ the conventional rules of society, a horror of obedience to prescribed
 ordinances, which now and then her conversation betrayed. They saw
 nothing more of Miss Gillespie, save at dinner, when Mitford noticed
 that Mrs. Hammond made no alteration in her manner towards him, unless
-indeed it was a little more _prononcé_ than when they had been alone.
+indeed it was a little more _prononcÃ©_ than when they had been alone.
 Miss Gillespie did not appear to remark it, but sat and purred from
 time to time in a very amiable and pleasant manner. She retired after
 dinner, and then Sir Charles's phaeton was brought round, and it was
@@ -5690,7 +5668,7 @@ Mrs. Phillimore mixes for a while with people in her own rank of life,
 and temporarily denies herself the pleasure of hunting orphans into
 asylums, and dealing out tea and Bibles to superannuated crones.
 Grinsby would have gone through life despised as a cockney
-_littérateur_,--indeed, they intended to have immense fun out of him
+_littÃ©rateur_,--indeed, they intended to have immense fun out of him
 at the Duke's,--if he had not knocked over that brace of woodcock,
 right and left barrel; if, in fact, he had not made better shooting
 than any other man of the party; and Tom Copus would never have given
@@ -6178,7 +6156,7 @@ theatrical lion was usually to be found hovering about her. But far
 beyond anything else she liked a flirtation with the husband of an
 acknowledged pretty woman; and the more beautiful the wife, the more
 bent was Laura Hammond on captivating the husband That gave her
-greater _éclat_ than anything else, and she liked _éclat_. She liked
+greater _Ã©clat_ than anything else, and she liked _Ã©clat_. She liked
 being talked about,--up to a certain point; she liked women to express
 their wonder at what men could see in her to rave about; she liked to
 have repeated to her what men said at clubs: "'Str'ord'nary little
@@ -6416,7 +6394,7 @@ this turf-hill is awkward to climb, especially in a habit."
 
 Meanwhile Georgie had hurried away to where her husband was standing
 watching the laying of the cloth in the one room of the keep, by the
-old châtelâine and her granddaughter. Georgie made her way up to him,
+old chÃ¢telÃ¢ine and her granddaughter. Georgie made her way up to him,
 and with the tears rising in her eyes, said, "Oh, Charley, I'm so glad
 I have found you; I wanted to speak to you."
 
@@ -6886,7 +6864,7 @@ triumph.
 after all, it's very little to give up; the flirtation is only just
 commencing, so that even you, with your keen susceptibility, cannot be
 hard hit yet. And you have such a very nice wife, and it will be
-altogether so much better for you now you are _rangé_, as they say.
+altogether so much better for you now you are _rangÃ©_, as they say.
 You'll have to go to the village-church regularly when you're down
 here, and to become a magistrate, and to go through all sorts of other
 respectabilities with which this style of thing would not fit at all.
@@ -7345,7 +7323,7 @@ Now how am I to see her?"
 
 "With her pupil," repeated Sir Charles sternly, "in the chestnut
 avenue leading from the lodge-gate. A tall woman with very large eyes,
-and crisp wavy °hair over her forehead; a peculiar-looking woman--you
+and crisp wavy Â°hair over her forehead; a peculiar-looking woman--you
 couldn't mistake her."
 
 "All right! As I go out of the lodge-gate now, I'll just say a few
@@ -7459,7 +7437,7 @@ had taken alarm. But Lord Dollamore seemed to be perfectly innocuous.
 Laurence had watched him narrowly from the first, and, as in the
 case of the drive to Egremont Priory, he seemed rather to avoid
 than to seek opportunities of being in Lady Mitford's company
-_en tête-à-tête_, and, judging from that and one or two other
+_en tÃªte-Ã -tÃªte_, and, judging from that and one or two other
 instances, was apparently desirous of keeping in the background, and
 of pushing Laurence forward. Could he--? No; he was a man utterly
 without principle where women are concerned; but he would never
@@ -7488,7 +7466,7 @@ imagined to be an outburst of groundless jealousy.
 
 An extraordinary change had come over Mitford within the last few
 days. Before the picnic, and at the picnic, he had been enthralled,
-_entêté_, eagerly waiting for Mrs. Hammond's every look, every word,
+_entÃªtÃ©_, eagerly waiting for Mrs. Hammond's every look, every word,
 and scarcely able to behave with decency to anybody else. Since then
 he had acted quite differently. Had his conscience smitten him for
 neglecting his wife? No; Laurence did not believe in sudden
@@ -7499,7 +7477,7 @@ had come to some understanding evidently, for Mrs. Hammond now seldom
 addressed her conversation to her host, but kept her hand in by
 practising on the susceptible heart of Major Winton, or by coquetting
 with some of the officers who were invariably to be found dining at
-Redmoor. She had tried to _réchauffer_ a little of the old story with
+Redmoor. She had tried to _rÃ©chauffer_ a little of the old story with
 Laurence, but had encountered something so much more marked than mere
 disinclination, that she suspended operations at once.
 
@@ -7516,11 +7494,11 @@ might happen to be.
 Whither should he go, then? Not back to London--that was impossible.
 The week or two he had passed there had thoroughly sickened him of
 London for some time to come. Paris? No, he thought not! The _bals
-d'opéra_ would be on then,--Frisotte and Rigolette, Celestine and
-Mogador, Brididi and the Reine Pomaré--O yes, he knew it all; it was a
+d'opÃ©ra_ would be on then,--Frisotte and Rigolette, Celestine and
+Mogador, Brididi and the Reine PomarÃ©--O yes, he knew it all; it was a
 very long time since those exercitations of the _cancan_, rebuked by
 the _sergents-de-ville_ in a low grumble of "_Pas si fort! pas si
-fort! point du télégraphe!_" had afforded him the slightest pleasure.
+fort! point du tÃ©lÃ©graphe!_" had afforded him the slightest pleasure.
 Leicestershire? No, though he had purchased Sir Launcelot, and from
 merely that short experience of him at Acton, felt sure that he would
 "show them the way"--no, not Leicestershire this year, he thought, nor
@@ -7544,7 +7522,7 @@ An addition accrued to the dinner-party that day, in the persons of
 Sir Thomas Hayter, a country neighbour, his wife and daughter. Sir
 Thomas was a hearty old Tory country squire, who during his one season
 in London had been captivated by and had married her ladyship; at the
-time of her marriage a _passée_ beauty, now a thin chip of an old
+time of her marriage a _passÃ©e_ beauty, now a thin chip of an old
 woman, still affecting girlish airs. Miss Hayter was a fine, fresh,
 dashing, exuberant girl, inclined to flirting, and fulfilling her
 inclination thoroughly. They infused a little new life into the party;
@@ -7790,8 +7768,8 @@ expectation very high. Then Sir Charles Mitford came up somewhat
 stiffly, and offered his arm to Miss Gillespie and led her to the
 piano; and there, just removing her gloves, and without the smallest
 hesitation or affectation, she sat down, and with scarcely any prelude
-plunged at once into that most delightful of melodies, "Che faró senza
-Eurydice," from Glück's _Ofeo_. Ah, what a voice! clear, bell-like,
+plunged at once into that most delightful of melodies, "Che farÃ³ senza
+Eurydice," from GlÃ¼ck's _Ofeo_. Ah, what a voice! clear, bell-like,
 thrilling, touching not merely the tympanum of the ear, but acting on
 the nerves and on the spinal vertebrae. What melody in it! what
 wondrous power! and as she poured out the refrain, "Eurydice,
@@ -7831,7 +7809,7 @@ anything new worn by any other woman without taking private mental
 notes of its every detail; thus setting at defiance any attempted
 extension of the Patent laws in regard to female apparel. So, with her
 eyes devouring Miss Gillespie's dress, Mrs. Masters said to her "Yes,
-so charming that Glück! so full of depth and power!--(Wonderfully good
+so charming that GlÃ¼ck! so full of depth and power!--(Wonderfully good
 silk; stands by itself like a board!)--And the little French
 _chansonnette_, so sparkling and melodious, and--(O yes, certainly
 French I should think! no English house could--) may I ask you where
@@ -7981,7 +7959,7 @@ to Sir Charles, and let him have it for a sum down--must be a big sum
 too--and then I'll cut the whole lot of 'em, and go and live somewhere
 in the country by myself! That's what I'll do!"
 
-_L'appétit vient en mangeant_. When Mr. Effingham was utterly
+_L'appÃ©tit vient en mangeant_. When Mr. Effingham was utterly
 destitute he accommodated himself to his position, and lived on, from
 hand to mouth, in the best way he could. He retired to the back-ways
 and slums then, and seeing very few people much better off than he was
@@ -9268,7 +9246,7 @@ practical knowledge of the science of husbandry, and a satisfactory
 return in profit. The house was surrounded by a broad stone-terrace,
 bounded by a low balustrade, and flanked at each of the corners by a
 large stone-vase containing flowers, which varied with the season, but
-were never missing from these stately _jardinières_. These vases were
+were never missing from these stately _jardiniÃ¨res_. These vases were
 tended, in common with the formal flower-garden and the particular pet
 parterre which she called "her own," by Helen Manningtree, the orphan
 ward of Sir Peregrine Alsager, whom Laurence remembered as a quiet
@@ -9281,11 +9259,11 @@ well-disciplined, and attractive woman.
 Knockholt Park was one of those rare places which present a perfect
 combination of luxury and comfort to the beholder, and impress the
 latter element of their constitution upon the resident visitor. _Bien,
-être_ seemed to reign there; and the very peacocks which strutted upon
+Ãªtre_ seemed to reign there; and the very peacocks which strutted upon
 the terrace, and tapped at the dining-room window as soon as Sir
 Peregrine had taken his accustomed seat at the head of the long table,
 seemed less restless in their vanity and brighter in their plumage
-than their _confrères_ of the neighbouring gentlemen's seats. The
+than their _confrÃ¨res_ of the neighbouring gentlemen's seats. The
 brute creation had fine times of it at Knockholt Park, except, of
 course, such of their number as came under the denomination of vermin;
 and those Sir Peregrine was too good a farmer, to say nothing of his
@@ -9467,8 +9445,8 @@ its heavy, carved balustrade, terminated by a fierce figure in armour
 holding a glittering spear, with a mimic banderol blazoned with the
 device of the Alsagers. The wide stone hall, at the opposite extremity
 of which the door of the long drawing-room stood open, the heavy
-velvet _portière_ withdrawn, was hung with trophies of the chase and
-of war. Tiger-skins, buffalo-horns, the _dépouilles_ of the greater
+velvet _portiÃ¨re_ withdrawn, was hung with trophies of the chase and
+of war. Tiger-skins, buffalo-horns, the _dÃ©pouilles_ of the greater
 and the lesser animals which man so loves to destroy, adorned its
 walls, diversified by several handsome specimens of Indian arms, and a
 French helmet, pistol, and sabretache. Four splendid wood-carvings,
@@ -9498,7 +9476,7 @@ curates. She respected--indeed, she admired all the ranks of the
 hierarchy and all their members, and she never could be induced to
 regard them as in any way divided in spirit or opinions. They were all
 sacred creatures in her eves, from the most sucking of curates to the
-most soapy of bishops; but the curates had the preëminence in the
+most soapy of bishops; but the curates had the preÃ«minence in the
 order of this remarkably unworldly woman's estimation. Her Augustine
 had been a curate; he might, indeed, have become a bishop in the
 fulness of time, and supposing the order of merit to have been
@@ -9668,7 +9646,7 @@ positions had altered, and with the change old things had passed away.
 The pale and shrunken old man who lay patiently on his couch beside
 the large window of the library at Knockholt, at which the peacocks
 had now learned to tap and the dogs to sniff, was not the silent
-though urbane, the hale and _arriéré_ country gentleman to whom his
+though urbane, the hale and _arriÃ©rÃ©_ country gentleman to whom his
 Guardsman's life had been an unattractive mystery, and all his ways
 distasteful. That Guardsman's life, those London ways, the shibboleth
 of his set, even the distinctive peculiarities of his own
@@ -10073,7 +10051,7 @@ anybody stayed away. Sir Charles expressed polite regret.
 "Dear me!" exclaimed Mrs. Hammond, "how very sorry Lady Mitford will
 be! Bereft of her two courtiers, she will be bereaved indeed. First
 Colonel Alsager, and now Lord Dollamore. She will be quite _au
-déspoir_.
+dÃ©spoir_.
 
 "I wish I could hope to make so deep an impression by my absence, Mrs.
 Hammond," he answered in the careless tone in which one replies to a
@@ -10157,7 +10135,7 @@ breakfast,--before she had to encounter Mrs. Hammond, who brought a
 fresh supply of ammunition to the attack on each such occasion; whose
 beauty was never brighter or more alluring than when she arrayed it in
 the elaborate simplicity of Parisian morning-dress; who was not
-sufficiently sensitive to be _journalière_, and who might always
+sufficiently sensitive to be _journaliÃ¨re_, and who might always
 cherish a well-founded confidence in her own good looks, and the
 perfect efficiency of her weapons. Not that Georgie was fighting her
 any longer on the old _terrain_; she had retreated from that, and had
@@ -10335,7 +10313,7 @@ have disarmed even Laura, had her inveterate coquetry and love of
 intrigue been the only animating motives of her conduct. She might
 have sacrificed the lesser passions to an impulse of the kind, but the
 greater--no. So she accepted all the delicate kindness which poor
-Georgie did her, she accepted the _rôle_ of devoted and afflicted wife
+Georgie did her, she accepted the _rÃ´le_ of devoted and afflicted wife
 assigned to her before the household, and she hardened her heart
 against every appeal of her feebly-speaking conscience. With the
 following day the aspect of things changed a little. Mr. Hammond
@@ -10376,7 +10354,7 @@ Mitford alone in, the drawing-room when he quitted the delectable
 society of the gentlemen. Mrs. Hammond had left the dinner-table,
 proclaiming her intention of at once resuming her place by her
 husband's side--a declaration by which she secured two purposes: one,
-the avoidance of a _tête-à-tête_ with Lady Mitford; the other, the
+the avoidance of a _tÃªte-Ã -tÃªte_ with Lady Mitford; the other, the
 prevention of a visit by her hostess to the sickroom, on any
 supposition that Mr. Hammond might require extra attention. During
 dinner she had been quiet and subdued; her manner, in short, had been
@@ -10831,7 +10809,7 @@ Head, and would wonder when that heiress who should see him from the
 stage-box O.P., and faint on her mother's neck, exclaiming, "Fitzroy
 Bellville for my husband, or immediate suicide for me!" would arrive.
 
-There was a strange _clientèle_ always gathered round Mr. Trapman's
+There was a strange _clientÃ¨le_ always gathered round Mr. Trapman's
 door so long as the great agent was visible, viz. from ten till five;
 old men in seedy camlet cloaks with red noses and bleared eyes--"heavy
 fathers" these--and cruel misers and villanous stewards and
@@ -11586,7 +11564,7 @@ the whole affair. Bless you, my Buttons!"
 As Georgie was driving over to the railway-station on the following
 day,--her maid and she occupying the inside of the carriage, and Sir
 Charles, availing himself of his well-known objection to allow any one
-but himself to drive when he was present, to avoid a _tête-à-tête_
+but himself to drive when he was present, to avoid a _tÃªte-Ã -tÃªte_
 with his wife, on the box,--she raised her heavy veil for a while, and
 drawing a letter from her pocket, read and re-read it through her
 blinding tears. It was from Colonel Alsager. At length Georgie put it
@@ -11661,7 +11639,7 @@ interpreted by Buncle, Mrs. Buncle, and Stampede--whom Buncle always
 took about with him to play his seconds--drew for a certain length of
 time. Then the audience thinned gradually, and Wuff found it necessary
 to supplement _King Lear_ with the _Harem Beauties_--a ballet
-supported by the best band of _coryphées_ in Europe; and that was a
+supported by the best band of _coryphÃ©es_ in Europe; and that was a
 really good stroke of policy. While Buncle was lying down and dying as
 Lear, the club-men came trooping into the house; and Buncle's
 apostrophes to his dead daughter Cordelia were nearly inaudible in the
@@ -11675,7 +11653,7 @@ have counted more peers within Wuff's walls at one time than were to
 be found, save on special occasions, at St. Stephen's.
 
 But the ballet, after a time, ceased to draw; and Mr. Wuff could not
-supplement it by another, for the _coryphées_ had all returned to
+supplement it by another, for the _coryphÃ©es_ had all returned to
 their allegiance to the manager of the Opera-house, whose season had
 just commenced. Mr. Wuff was in despair; he dared not shut the house,
 for he had to make up his rent, which was required with inexorable
@@ -11876,7 +11854,7 @@ dragging on a miserable existence, exposed to the perverse
 misunderstandings or degrading pity of the world! On these latter
 points he should soon be assured. They discussed everybody at the
 Maecenas; and if there had been anything sufficiently noticeable in
-the Mitford _ménage_ to call for comment, it was sure to receive the
+the Mitford _mÃ©nage_ to call for comment, it was sure to receive the
 freest and most outspoken discussion in the tabak-parliament of the
 Club.
 
@@ -12039,7 +12017,7 @@ stalls." And the two Guardsmen started away together.
 "Right! terribly right!" said Alsager, with a set rigid face.
 
 "You would not have accepted my testimony, thinking perhaps that I had
-motives for exaggeration, or was prompted by an _arrière pensée_, in
+motives for exaggeration, or was prompted by an _arriÃ¨re pensÃ©e_, in
 which, on my word of honour, you're wrong. But those fellows are
 merely types of society; and their opinion, somewhat differently
 expressed, is society's opinion."
@@ -12466,7 +12444,7 @@ been, she did not, and he went on.
 
 "Yes, yes, I love you. I think you knew it before?" She made no reply.
 "I think I have loved you from the first,--from the moment when,
-callous and _blasé_ as I had come to believe myself--as, God knows, I
+callous and _blasÃ©_ as I had come to believe myself--as, God knows, I
 had good right to be, if human nature may ever claim such a right--I
 could not bear to see the way your fate was drifting, or to hear the
 chances for and against you calculated, as men calculate such odds. I
@@ -12853,7 +12831,7 @@ disposed towards you." Once more she smiled timidly and sadly. "You
 would have little cause to fear ill-success, I should think."
 
 "Except that in this case, Lady Mitford, the lady's affections are
-preëngaged, and she is doubtless a miracle of constancy."
+preÃ«ngaged, and she is doubtless a miracle of constancy."
 
 "You speak bitterly, Sir Laurence, but your bitterness will pass, and
 your better nature will assert itself."
@@ -13788,7 +13766,7 @@ prospects, I presume."
 He spoke the last words in a harsh and angry voice involuntarily.
 Anger against her, and something very like hatred of her, were strong
 within him, and grew stronger rapidly. He looked at her careless face;
-he marked her sensuous _soignée_ beauty; and he remembered the fair
+he marked her sensuous _soignÃ©e_ beauty; and he remembered the fair
 woman whom he had seen struck down by her merciless hand in the dawn
 of her innocent happiness, in the pride of her hope and love. He would
 make her say her say, and leave her, or he would leave her with it
@@ -14845,7 +14823,7 @@ mentioned with Sir Charles, a man appeared who had been mixed up in
 many of the transactions of the time past to which I had been a party.
 He met me, und told me a story which I did not believe, but which
 altered my position completely. He had come down to get me away; and
-whether he came as Sir Charles's _employé_ or on his own account, I
+whether he came as Sir Charles's _employÃ©_ or on his own account, I
 have never been certain. I believe the latter to be the more likely.
 He had two alternatives at his command: he might expose me if I
 refused to leave Redmoor quietly, and destroy all my hopes of
@@ -15047,7 +15025,7 @@ bachelors, and looking on to the trim garden. You had a wash, with
 more water than you had met with since you left home (they were
 beginning to understand the English mania for soap-and-water at the
 Badischer Hof even so long ago), and you made your toilette and came
-down to the five-o'clock _table-d'hôte_, where you found most of the
+down to the five-o'clock _table-d'hÃ´te_, where you found most of the
 people who had been there the previous season, and many of their
 friends whom they had induced to come. Most of the people knew each
 other or of each other, and there was a sociability among them which
@@ -15121,13 +15099,13 @@ the _roulette_ and _trente-et-quarante_ tables; and of the
 non-gamblers all such as had ladies with them were promenading
 and listening to the music, while the others were seated, drinking
 and smoking. It was a splendid evening; the diners at the late
-_tables-d'hôte_ were wending their way from their hotels to the
+_tables-d'hÃ´te_ were wending their way from their hotels to the
 promenade; the consumers of the German _mittagsessen_, were listening
 to the band in delicious anticipation of the _reh-braten_ and the
 _haring-salad_ and the _bok-bier_, or the Ahrbleichart, at which
 another half-hour would see them hard at work; the clamouring for
 coffee was incessant, and the head-waiter, Joseph, who was so like
-Bouffé, was almost driven out of his wits by the Babel of voices. They
+BouffÃ©, was almost driven out of his wits by the Babel of voices. They
 chattered, those tall occupants of the little wooden round-tables--how
 they chattered! They turned round and stared at the promenaders, and
 made their comments on them after they had passed. They had something
@@ -15146,14 +15124,14 @@ in a rouleau; and though the space in front of him was shining with
 gold at one moment, or laid bare by the sweeping rake of the
 croupier,--winning or losing, his expression would not change for an
 instant. He had been to Baden for two or three seasons running, and
-was beginning to be looked upon as an _habitué_; the croupiers
+was beginning to be looked upon as an _habituÃ©_; the croupiers
 acknowledged his taking his seat, intending to do battle, by a slight
 grave bow; he had broken the bank more than once, and was a lion among
 the visitors, and notably amongst the English. Tchernigow's horses and
 carriages, his bold play, his good shooting, the wonderful way in
 which he spoke our language, his love of solitude, his taciturnity,
 his singular physique, were all freely discussed at the late
-_tables-d'hôte_ of hotels at which the prince was not staving. His
+_tables-d'hÃ´te_ of hotels at which the prince was not staving. His
 reputation of _beau joueur_ caused him to be followed as soon as he
 was seen going into the rooms, and his play was watched and humbly
 imitated by scores. He seldom attended the balls, and very rarely
@@ -15246,10 +15224,10 @@ which in some respects was better, as it enabled him to flavour his
 anecdotes with a piquancy which was perhaps wanting in the original.
 He found occupation for his ears and tongue in a variety of topics;
 the heaviest subjects were not excluded, the lightest obtained a place
-in his _répertoire_. The rumour of the approaching change in the
+in his _rÃ©pertoire_. The rumour of the approaching change in the
 premiership, while passing through the Aldermaston crucible,
 encountered the report of Mademoiselle de la Normandie's refusal to
-dance her _pas seul_ before Madame Rivière; the report of Lady
+dance her _pas seul_ before Madame RiviÃ¨re; the report of Lady
 Propagand's conversion to Romanism did not prevent Mr. Aldermaston's
 giving proper additional publicity to the whisper of Miss de Toddler's
 flight with the milkman.
@@ -15313,11 +15291,11 @@ it up."
 
 "Ah!" said Lord Dollamore, warming a once into interest; "_malheureux
 en jeu, heureux en amour_,--the converse of the ordinarily-received
-motto. Has Mademoiselle Féodor arrived from the Gaieté? or who is the
+motto. Has Mademoiselle FÃ©odor arrived from the GaietÃ©? or who is the
 siren that charms our Prince from the tables?"
 
-"Mademoiselle Féodor has not arrived, but some one else has. A much
-more dangerous person than Mademoiselle Féodor, and with much more
+"Mademoiselle FÃ©odor has not arrived, but some one else has. A much
+more dangerous person than Mademoiselle FÃ©odor, and with much more
 lasting hopes in view."
 
 Lord Dollamore looked keenly at his companion, and said, "I begin to
@@ -15330,7 +15308,7 @@ bits of civility, that he generally comes up to my room in the morning
 and lets me know all that is going on. He showed me a letter that he
 had about a week ago, written in French, saying that a lady wanted
 rooms reserved for herself and maid; that she would not dine at the
-_table-d'hôte_, being an invalid, and coming only for the benefit of
+_table-d'hÃ´te_, being an invalid, and coming only for the benefit of
 the air and springs, but should require dinner and all her meals
 served in her own rooms. The French of the letter was excellent, but
 the idea of retirement looked essentially English. I never knew a
@@ -15374,7 +15352,7 @@ now, Mr. Aldermaston. But continue your story."
 asked for Madame Poitevin, in which name the rooms had been taken, and
 he was shown upstairs. He came the next day twice, twice yesterday; he
 was there this morning; and just now, as I came away from the
-_table-d'hôte_, I met him on the steps going in."
+_table-d'hÃ´te_, I met him on the steps going in."
 
 "Mr. Aldermaston, you are _impayable!_" said Dollamore. "I must pay a
 compliment to your perspicacity, even at the risk of forestalling the
@@ -15528,7 +15506,7 @@ anything of that sort. But then what on earth does she want with me?
 'I pray you come at once.' Egad, I must go, I suppose, and ask for
 Madame Poitevin, as she tells me."
 
-He lounged up to the Hôtel de Russie, asked for Madame Poitevin, and
+He lounged up to the HÃ´tel de Russie, asked for Madame Poitevin, and
 was shown into a room where Laura was seated with Marcelline reading
 to her. Dollamore recollected Marcelline at once; he had an eye for
 beauty in every class, and had taken not an unfavourable notice of the
@@ -15712,11 +15690,11 @@ days register any farther,--and for Cologne Sir Charles started
 immediately. There he picked up the trace. Two French ladies had
 arrived by the Ostend train, and gone--not to any of the grand hotels
 bordering the Rhine, but to a second-rate house, yet quiet and
-thoroughly respectable for all that--the Brüsseler Hof, kept for the
+thoroughly respectable for all that--the BrÃ¼sseler Hof, kept for the
 last thirty years by Anton Schumacher. Were they recollected there? Of
 course they were. Anton Schumacher's eldest son Franz had been rather
 fetched by the trim appearance of the younger lady, and had gone down
-with them to the boat, and seen them on board the Königin Victoria,
+with them to the boat, and seen them on board the KÃ¶nigin Victoria,
 and recommended them specially to the care of the _conducteur_, who
 was a great friend of his. Where did they take tickets for? Why, at
 his advice, they took them for Cassel, on the left bank of the
@@ -15762,7 +15740,7 @@ here--O, three weeks about."
 "Then can you tell me? Is Mrs. Hammond here?"
 
 "There's no such name in the _Fremdenblatt_--the _Gazette des
-Étrangers_, you know." His little eyes twinkled so, that even
+Ã‰trangers_, you know." His little eyes twinkled so, that even
 Mitford's dull comprehension was aroused.
 
 "But for all that, she's here. Tell me, for God's sake!"
@@ -15840,7 +15818,7 @@ morning."
 
 "Madame Poitevin. But why?"
 
-"Nothing-no matter; now the Hôtel de Russie!--all right;" and he
+"Nothing-no matter; now the HÃ´tel de Russie!--all right;" and he
 started off up the street.
 
 
@@ -16000,7 +15978,7 @@ Mitford nodded sulkily and took up his hat. Then, with a low bow to
 Mrs. Hammond, he left the room.
 
 
-An hour had passed, and the space in front of the Kürsaal was thronged
+An hour had passed, and the space in front of the KÃ¼rsaal was thronged
 as usual. At a table by himself sat Sir Charles Mitford, drinking
 brandy-and-water, and ever and anon casting eager glances round him.
 His eyes were bloodshot, his hand shook as he conveyed the glass to
@@ -16040,11 +16018,11 @@ doubt,--the words I used I would use again, and if need were, I would
 cram them down his throat!"
 
 "_Eh bien, M. Mitford!_" said Tchernigow, changing his language, but
-ever keeping his quiet tone,--"_eh bien! M. Mitford, décidément vous
-êtes un lâche!_"
+ever keeping his quiet tone,--"_eh bien! M. Mitford, dÃ©cidÃ©ment vous
+Ãªtes un lÃ¢che!_"
 
 A crash, a gathering of a little crowd, and the waiter-who was so like
-Bouffé--raised Prince Tchernigow from the ground, with a little blood
+BouffÃ©--raised Prince Tchernigow from the ground, with a little blood
 oozing from a spot beneath his temple. "He had stumbled over a chair,"
 he said; "but it was nothing."
 
@@ -16118,8 +16096,8 @@ him better that she should go to Frankfurt that evening,--it would put
 a stop to any chance of talk, he said, and he would join her there at
 the Romischer Kaiser the next morning. Laura agreed, as she would have
 agreed to anything he might have proposed--so happy was she just then;
-and while the visitors were engaged at the late _table-d'hôte_, a
-carriage drew up at the side-door of the Hôtel de Russie, and Mrs.
+and while the visitors were engaged at the late _table-d'hÃ´te_, a
+carriage drew up at the side-door of the HÃ´tel de Russie, and Mrs.
 Hammond and Mademoiselle Marcelline started for Frankfurt.
 
 
@@ -16128,9 +16106,9 @@ Hammond and Mademoiselle Marcelline started for Frankfurt.
 
 Lord Dollamore was in the habit of breakfasting late and
 substantially. The tables were generally laid for the first
-_table-d'hôte_ before the easy-going Englishman came lounging into the
-_salle-à-manger_ about ten o'clock, and sat down to his _bifteck aux
-pommes_ and his half-bottle of Léoville. He was not a minute earlier
+_table-d'hÃ´te_ before the easy-going Englishman came lounging into the
+_salle-Ã -manger_ about ten o'clock, and sat down to his _bifteck aux
+pommes_ and his half-bottle of LÃ©oville. He was not a minute earlier
 than usual on the morning after he had refused to act for Mitford,
 though he felt certain the meeting had taken place. But he thought
 very little of it; he had seen so many duels amongst foreigners
@@ -16161,7 +16139,7 @@ and as he hurried from the room it would have been difficult to
 recognize in him the usual bright chirpy little news-purveyor.
 
 As soon as he was gone Lord Dollamore ordered a carriage to be got
-ready, and sent round to the Hôtel d'Angleterre to Mr. Keene, the
+ready, and sent round to the HÃ´tel d'Angleterre to Mr. Keene, the
 eminent London surgeon, who had arrived two days before, and who, on
 hearing what had happened, at once consented to accompany Dollamore to
 where the wounded man was lying. As they proceeded in the carriage,
@@ -16225,7 +16203,7 @@ lady had departed this life, and that at which he had been replaced by
 the Prince. Many good-natured and strictly moral English people
 endeavoured to instruct the Parisian mind on this point, and to make
 it understand that the Princess would have some difficulty with
-"society" in her own country. But these _idées insulaires_ had no
+"society" in her own country. But these _idÃ©es insulaires_ had no
 success.
 
 Tchernigow had been popular in Paris before he had gratified it by
@@ -16254,7 +16232,7 @@ reason had no place; and this fair creature must have reposed her
 affections in the feeble elderly gentleman, to whom she was so
 delightfully devoted, and who was so proud of her. She had had a train
 of admirers then, naturally; but it was early days, and there was
-nothing very _prononcé_.
+nothing very _prononcÃ©_.
 
 Mrs. Hammond had been in Paris again and again after that first
 successful appearance; and if her devotion to the feeble elderly
@@ -16271,7 +16249,7 @@ merits, and to which their union added vigour and intensity. The Baden
 story had of course got about, with more or less correctness of time,
 place, and circumstances; and the combination of a duel, involving
 the death of his adversary, with a wedding, in which the bride had
-been _affichée_ to the slain man, was an irresistibly piquant
+been _affichÃ©e_ to the slain man, was an irresistibly piquant
 anecdote,--and "so like" Tchernigow.
 
 The Princess came off remarkably well in the innumerable discussions
@@ -16294,7 +16272,7 @@ They wondered if it made her experience for a moment a very little of
 repulsion. But no, probably not,--the Prince was really such a
 gentleman; and the other deplorable person it was impossible to pity.
 
-Prince Tchernigow possessed a mansion in the Champs Elysées; and
+Prince Tchernigow possessed a mansion in the Champs ElysÃ©es; and
 thither, a short time after the arrival of the pair, all Paris
 (presentable Paris, of course) flocked to pay their respects, and
 inspect the magnificence of the possessions in the midst of which
@@ -16306,7 +16284,7 @@ meaning that continent, of course.
 
 It was at the second of these entertainments that Madame de Soubise
 remarked to Madame de Somme, in a pregnant little sentence, beginning
-with the invariable "_dites-donc, chère Adèle_," that Madame la
+with the invariable "_dites-donc, chÃ¨re AdÃ¨le_," that Madame la
 Princesse seemed a little _distraite_, and had begun to wear rouge
 like the rest of the world. Madame de Somme acquiesced in her friend's
 remark, and further added on her own account, that the English
@@ -16334,7 +16312,7 @@ cherished Laura, and ask her in fervent tones if the pleasures, the
 delights of this evening of Paradise had been too much for her; and
 the two women would form the prettiest tableau in the world.
 
-Did any of the worshippers at Laura's _canapé_, beside which the
+Did any of the worshippers at Laura's _canapÃ©_, beside which the
 Prince, most attentive of bridegrooms, most devoted of men, kept his
 place steadily all the evening, admire the vivacity, the wit, the
 grace of the little lady, the Princess would reply warmly, that her
@@ -16413,7 +16391,7 @@ of anything of the kind. I was only thinking of this horrible journey
 to Russia. It terrifies me."
 
 "Yes; but everything terrifies you, you know. How odd that Madame la
-Princesse should not be _enthousiasmé_ at the prospect of beholding
+Princesse should not be _enthousiasmÃ©_ at the prospect of beholding
 the ancestral home of Monsieur le Prince, of being presented to the
 gracious and urbane monarch who rules the Russias and the Russians!
 They are a little difficult to rule as individuals, I fear; but as a
@@ -16443,7 +16421,7 @@ empire had not been sufficiently systematized on that scale of comfort
 indispensable to persons of condition; and, on the whole, she rather
 thought they were not likely to go to Russia just then.
 
-Madame Seymour's apartments in the Hôtel Tchernigow were among the
+Madame Seymour's apartments in the HÃ´tel Tchernigow were among the
 most luxurious and elegant which that palatial edifice contained. They
 were inferior to those of the Princess in size alone; in every detail
 of comfort and sybarite ease they equalled hers. A tiny and delicious
@@ -16470,7 +16448,7 @@ to go."
 
 "I am perfectly aware of that fact, Madame Seymour," said the Prince,
 with a peculiar smile; "but we are going to St. Petersburg, _quand
-même_."
+mÃªme_."
 
 "Very well," said Marcelline; and she held her wrist towards the
 Prince as a tacit intimation that he was to button her dainty glove.
@@ -16506,14 +16484,14 @@ that for the present. I really object to torturing her, when there's
 nothing to gain."
 
 
-Another season, and another, and the Hôtel Tchernigow opened its
+Another season, and another, and the HÃ´tel Tchernigow opened its
 hospitable doors, and maintained its reputation for splendour,
 profusion, and fashion. But the health of the Princess afforded more
 and more reason for solicitude to the hosts of friends who were
 desolated by the intelligence that she was indisposed; and the beauty
 of the Princess began to require that adornment from dress which it
 had hitherto bestowed upon the utmost resources of decoration. Ugly
-rumours regarding the princely _ménage_ had begun to circulate; and a
+rumours regarding the princely _mÃ©nage_ had begun to circulate; and a
 few, a very few, of those in high places had abated the alacrity with
 which they had been wont to welcome the appearance of the Muscovite
 magnate in their _salons_. French society does not tolerate overt
@@ -16694,7 +16672,7 @@ thoughts much less cynical than they were. The person who suffers most
 from him now is the _chef_ of the Maecenas, when Dollamore rules the
 House-Committee. When that unfortunate Frenchman hears from the
 house-steward that Lord Dollamore has been seen whispering to his
-stick about an _entrée_ or an omelette, he knows what to expect the
+stick about an _entrÃ©e_ or an omelette, he knows what to expect the
 next day.
 
 
@@ -17050,363 +17028,4 @@ JOHN CHILDS AND SON, PRINTERS.
 
 End of the Project Gutenberg EBook of Running the Gauntlet, by Edmund Yates
 
-*** END OF THIS PROJECT GUTENBERG EBOOK RUNNING THE GAUNTLET ***
-
-***** This file should be named 59366-8.txt or 59366-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/3/6/59366/
-
-Produced by Charles Bowen from page scans provided by Google Books
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59366 ***
